@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.log
+requests.jsonl
+report.*
+.venv/
+.pytest_cache/
+_config.local.*
